@@ -1,0 +1,40 @@
+{
+    "it": [
+        {
+            "bookName": "Python Programming",
+            "bookHomeLink": "https://khudkibook.web.app/it/sem1/homepage",
+            "bookCode": "4311601",
+            "bookImage": "https://chauhanpriyanshu001.github.io/pic.github.io/013.webp",
+            "bookLink": "https://khudkibook.web.app/it/sem1/pythonprogramming",
+            "bookCredit": "5",
+            "sem": "sem1",
+            "syllabus": "https://drive.google.com/file/d/13vnq7yujmZklvrTFrb_RYP0Ii2paSZN7",
+            "booksLink": [
+                "https://drive.google.com/file/d/1oFoXYvrTPAaBTxUh7Z8LEFt5GyiJTSLz",
+                "https://drive.google.com/file/d/1i2enakYYlPaL5RxBHZ508VhKaZZkd2BW",
+                "https://drive.google.com/file/d/1eVZyfmDNTI_PrtDwbRYDrxJDkZzqthWc",
+                "https://drive.google.com/file/d/1mOYKO13xAhlszLfTRyMrHj8x8oT4lEU2",
+                "https://drive.google.com/file/d/1R4mMwyDsUWX7xIagWDfqo2Ol_P_YRyY3",
+                "https://drive.google.com/file/d/1fK5lcA2q0tD9gqV7YbRQFZCGivDUwoYw"
+            ],
+            "bookPapers": [
+                "https://drive.google.com/file/d/1yPtXPhnfThcuE11Px9-8EQV2eBPOkJBe",
+                "SU 2024",
+                "https://drive.google.com/file/d/1VMQ-WJTd-SFZ-fdM9WdpOoRLds_pt-Mc",
+                "SU 2023",
+                "https://drive.google.com/file/d/1mX4Rwqo2CCRqitflLE4BBSbB1nttu8rq",
+                "SU 2023",
+                "https://drive.google.com/file/d/12y-_6ANyzNUxANqdtfkkhuN3hWldUbIH",
+                "WE 2023",
+                "https://drive.google.com/file/d/12y-_6ANyzNUxANqdtfkkhuN3hWldUbIH",
+                "WE 2023",
+                "https://drive.google.com/file/d/14aU18LE0Z3aYbjI_DHwv7QpoCidKQzeR",
+                "WE 2022",
+                "https://drive.google.com/file/d/17DM3fINbdhLGB8GSEHOnt3o_gsLJel84",
+                "WE 2021",
+                "https://drive.google.com/file/d/12LZ5Ge-aK7GuVJyymRWbre2i28Nuu4_D",
+                "WE 2022 (C to D)"
+            ]
+        }
+    ]
+}
